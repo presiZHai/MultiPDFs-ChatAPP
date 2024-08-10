@@ -1,0 +1,10 @@
+# Object file
+*.o
+
+# Add Library Information
+*.ali
+
+# Add .env files
+.env
+
+
